@@ -1,0 +1,31 @@
+leftnav:
+- identifier: 44656b1b-6e76-b077-ffdd-e0869c86167b
+  name: Syllabus
+  pageRef: /pages/syllabus
+  weight: 10
+- identifier: 075fc754-40bc-e545-e344-134ee6477fd5
+  name: Calendar and Assignments
+  pageRef: /pages/calendar/
+  weight: 20
+- identifier: 4e1e9717-04a6-4447-429d-723cec44d612
+  name: Hints For Writing Papers
+  pageRef: /pages/calendar/hints-for-writing-papers
+  parent: 075fc754-40bc-e545-e344-134ee6477fd5
+  weight: 30
+- identifier: dc09ab58-b9e4-1aef-bd30-50985ffe5cd3
+  name: Hints for Making Presentations
+  pageRef: /pages/calendar/hints-for-making-presentations
+  parent: 075fc754-40bc-e545-e344-134ee6477fd5
+  weight: 40
+- identifier: fbc2dd0b-3b67-a963-6375-a06866265ac9
+  name: Readings
+  pageRef: /pages/readings
+  weight: 50
+- identifier: 790e85a7-0e6f-92f2-8433-bca4befbf155
+  name: Lecture Slides
+  pageRef: /pages/lecture-slides
+  weight: 60
+- identifier: 3825a61f-508a-3b6d-504d-b7baa65b3c9a
+  name: Projects
+  pageRef: /pages/projects
+  weight: 70
