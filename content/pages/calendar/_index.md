@@ -54,8 +54,8 @@ Experimental Work and Its Challenges
 
 Read one of the following articles and be prepared to comment in class on your selection in light of the readings listed in Session 3 of the table in the {{% resource_link "fbc2dd0b-3b67-a963-6375-a06866265ac9" "Readings" %}} section:
 
-- Blair, Graeme, C. Christine Fair, Neil Malhotra, et al. “{{% resource_link "a6521ede-351e-4fac-ac4a-e9787798b55f" "Poverty and Support for Militant Politics: Evidence from Pakistan" %}}.” *American Journal of Political Science* 57 (2013): 30–48.
-- Habyarimana, James, Macartan Humphreys, Daniel N. Posner, et al. {{% resource_link "c8716830-cb30-43a4-9240-9e170c5fc4a2" "“Why Does Ethnic Diversity Undermine Public Goods Provision?: An Experimental Approach.” (PDF)" %}} June 2006.
+- Blair, Graeme, C. Christine Fair, Neil Malhotra, et al. “[Poverty and Support for Militant Politics: Evidence from Pakistan](http://onlinelibrary.wiley.com/doi/10.1111/j.1540-5907.2012.00604.x/abstract).” *American Journal of Political Science* 57 (2013): 30–48.
+- Habyarimana, James, Macartan Humphreys, Daniel N. Posner, et al. [“Why Does Ethnic Diversity Undermine Public Goods Provision?: An Experimental Approach.” (PDF)](https://www.cgdev.org/sites/default/files/archive/doc/events/EthnicPublicGoods.pdf) June 2006.
 
 Your presentation should be 5 minutes long; it should summarize the article — its argument, its method, its empirical evidence — and offer your critique (which should be informed by the other readings). You will be strictly timed, and you should make use of visual aids; make sure to review the {{% resource_link "dc09ab58-b9e4-1aef-bd30-50985ffe5cd3" "Hints for Making Presentations" %}}. Your slides should be submitted to the instructor by 4 PM the day before class.
 
@@ -86,7 +86,7 @@ Cases Selection and Its Challenges
 Approximately one page:
 
 - Pick between 1–3 possible thesis topics, posed as researchable questions, and a very basic research design for each, to be discussed in class. Be sure to email the instructor the proposed topics by 4 PM the day before class, along with as much of the proposed research design as you wish to submit. You should at least be clear what the dependent variable is (that is, the thing you want to explain). 
-- Pass human subjects training at {{% resource_link "d0dfa534-2a9e-407d-965e-0c961e46a18c" "Committee on the Use of Humans as Experimental Subjects (COUHES)" %}} and submit a pdf of your certificate
+- Pass human subjects training at [Committee on the Use of Humans as Experimental Subjects (COUHES)](https://couhes.mit.edu/training-research-involving-human-subjects) and submit a pdf of your certificate
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 6
@@ -115,7 +115,7 @@ Evaluating a (Small) Body of Work: The Effects of Candidate Appearance
 
 *In class: Discussion of candidate appearance studies (first hour). Introduction to Qualtrics (second hour).*
 
-*In preparation for your assignments over the following two weeks and in Week 12, you will gain familiarity with the survey software* {{% resource_link "38983cb0-c96a-49a5-92e4-90190a8555ec" "*Qualtrics*" %}}*. As examples, we will preview the candidate appearance and immigration experiments.*
+*In preparation for your assignments over the following two weeks and in Week 12, you will gain familiarity with the survey software* [*Qualtrics*](https://www.qualtrics.com/)*. As examples, we will preview the candidate appearance and immigration experiments.*
 
 {{% resource_link "e3b67a8a-eed5-c91d-8941-d6897de93067" "*Challenge: How to Rate 608 Candidates (PDF)*" %}}
 
@@ -189,7 +189,7 @@ Using Archives, Libraries, and the Like
 
 {{< tdclose >}}{{< tdopen >}}
 
-Make a {{% resource_link "43e8ae93-e300-4765-a2fe-ece659ac06b5" "Freedom of Information" %}} request for a topic of your choice, for data that you have concluded are not already publicly available.
+Make a [Freedom of Information](https://www.foia.gov/how-to.html) request for a topic of your choice, for data that you have concluded are not already publicly available.
 
 Pick a coroner’s office or a police department and find out what information they collect on fatal shootings and what is reported to the federal government.
 
