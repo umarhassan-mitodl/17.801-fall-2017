@@ -1,8 +1,6 @@
 ---
 content_type: page
 description: ''
-hide_download: true
-hide_download_original: null
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
@@ -28,7 +26,7 @@ There are two main sections to the class. The first deals with social science go
 
 Many important topics are not covered at all, or are covered in only a cursory way, including: true ethnography, content analysis, survey research, focus groups, writing up your research, and submitting material for publication. Furthermore, for each topic covered in this class (e.g., experiments or interviewing in the field), there is a larger literature that is left off the syllabus. Once you know your own thesis topic and have a better sense of what methods you will use, you will want to consult other sources.
 
-This course has been designated Communication Intensive ([CI-M](http://web.mit.edu/commreq/depts%20ci-m.html)). A CI-M course is designed to help you develop your writing and speaking skills in the major. The TAs and I are available to help you as you might need with your writing.
+This course has been designated Communication Intensive ({{% resource_link "713d4fc3-4dc7-4356-8005-dc2bbb672876" "CI-M" %}}). A CI-M course is designed to help you develop your writing and speaking skills in the major. The TAs and I are available to help you as you might need with your writing.
 
 Readings
 --------

@@ -1,8 +1,6 @@
 ---
 content_type: page
 description: This section contains substantive hints for writing papers.
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
@@ -19,7 +17,7 @@ Substantive hints 
 1.  Make a clear argument in the first paragraph (or second paragraph if you start with an anecdote to draw in the reader). Then present evidence to support that argument.
 2.  Do not ignore contrary evidence. Either acknowledge that such contrary evidence limits the generality of your argument or show why it is not actually contrary to your argument.
 3.  Draw on all the potentially relevant readings.
-4.  Be skeptical of web-based sources. [Wikipedia](https://en.wikipedia.org/wiki/Wikipedia), for instance, is not an authoritative source.{{< sup "1" >}}
+4.  Be skeptical of web-based sources. {{% resource_link "b61db83d-e7b9-484f-81b6-4d19a38e37e0" "Wikipedia" %}}, for instance, is not an authoritative source.{{< sup "1" >}}
 
 Stylistic hints
 ---------------
@@ -37,13 +35,13 @@ Stylistic hints
 8.  If in doubt about style and grammar, consult Strunk and White{{< sup "2" >}} or some similar volume.
 9.  Always include page numbers on your papers.
 10.  Spell check and proofread your paper before handing it in.
-11.  If your footnotes are abridged or you are using the academic journal style of including citations in parentheses, be sure to include a list of references cited. Make sure the formatting of your bibliography and references corresponds to one of the appropriate styles. Stick with ONE style and use it throughout. If in doubt about formatting issues, consult the [Chicago Manual of Style](http://www.chicagomanualofstyle.org/home.html).
+11.  If your footnotes are abridged or you are using the academic journal style of including citations in parentheses, be sure to include a list of references cited. Make sure the formatting of your bibliography and references corresponds to one of the appropriate styles. Stick with ONE style and use it throughout. If in doubt about formatting issues, consult the {{% resource_link "e5a815c1-a94b-4133-8456-9a07272c9422" "Chicago Manual of Style" %}}.
 12.  For your first paper, allow at least an hour after that paper is written to your satisfaction to go back through it and check to make sure that you have covered all these points. For subsequent papers, check through your paper both for these points and for any hints you have received on previous papers. 
 
-{{< sup "1" >}} [Wikipedia](https://en.wikipedia.org/wiki/Wikipedia)
+{{< sup "1" >}} {{% resource_link "b61db83d-e7b9-484f-81b6-4d19a38e37e0" "Wikipedia" %}}
 
-Seigenthaler, John. "[A False Wikipedia 'Biography'](https://usatoday30.usatoday.com/news/opinion/editorials/2005-11-29-wikipedia-edit_x.htm)," _USA Today_, November 29, 2005.
+Seigenthaler, John. "{{% resource_link "eaae7d50-ffe9-40a7-b4e4-acfd76061307" "A False Wikipedia 'Biography'" %}}," _USA Today_, November 29, 2005.
 
-"[Fatally Flawed: Refuting the Recent Study on Encyclopedic Accuracy by the Journal _Nature_." (PDF)](https://corporate.britannica.com/britannica_nature_response.pdf) Encyclopædia Britannica, Inc., March 2006.
+"{{% resource_link "3438adcf-aa78-40fb-b0b4-44f6829f9d54" "Fatally Flawed: Refuting the Recent Study on Encyclopedic Accuracy by the Journal _Nature_.\" (PDF)" %}} Encyclopædia Britannica, Inc., March 2006.
 
 {{< sup "2" >}} Strunk Jr., William, and E.B. White. _The Elements of Style_. 4th edition. Pearson, 1999. ISBN: 9780205309023.
